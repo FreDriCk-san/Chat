@@ -1,0 +1,5 @@
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb

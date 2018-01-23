@@ -1,0 +1,5 @@
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
